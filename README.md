@@ -1,9 +1,9 @@
 # Being an Ethical Data Scientist
 
-# Data Collection
+### Data Collection
 
-# Data Wrangling
+### Data Wrangling
 
-# Data Analysis
+### Data Analysis
 
-# Data Visualization
+### Data Visualization
