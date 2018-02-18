@@ -26,7 +26,12 @@ This last piece is key in both the aformentioned article and in ethical data sci
 
 ### Data Analysis
 
-Much like in life, one of the best (and ethical) things you can do in data science is to not assume you nor your conclusions are absolutely correct.  
+Much like in life, one of the best (and ethical) things you can do in data science is to not assume you nor your conclusions are absolutely correct.  More generally, it is critical for data scientists to have an understanding of their place in the world and understand that--they too, are subject to human flaws.  Boyd and Crawford summarize this topic extremely well: 
+"Interpretation is at the center of data analysis. Regardless of the size of a data set, it is subject to limitation and bias. Without those biases and limitations being understood and outlined, misinterpretation is the result. Big Data is at its most effective when researchers take account of the complex methodological processes that underlie the analysis of social data."
+
+
+"Do numbers speak for themselves? The answer, we think, is a resounding ‘no’. Significantly, Anderson’s sweeping dismissal of all other theories and disciplines is a tell: it reveals an arrogant undercurrent in many Big Data debates where all other forms of analysis can be sidelined by production lines of numbers, privileged as having a direct line to raw knowledge. Why people do things, write things, or make things is erased by the sheer volume of numerical repetition and large patterns. This is not a space for reflection or the older forms of intellectual craft. As David Berry (2011, p. 8) writes, Big Data provides ‘destablising amounts of knowledge and information that lack the regulating force of philosophy.’ Instead of philosophy – which Kant saw as the rational basis for all institutions – ‘computationality might then be understood as an ontotheology, creating a new ontological “epoch” as a new historical constellation of intelligibility’"
+
 
 ### Data Visualization
 
