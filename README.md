@@ -17,8 +17,10 @@ Which control variables should be considered? Should specific measures be combin
 
 If poor decisions made about data collection produces conclusions that incorrectly model reality, then the associated benefits of scientific progress are lost, or can actually hurt the lives of associated stakeholders.  Take, for instance, a demographic analysis used to inform the distribution of funds for certain social programs (gross oversimplification of the issue, but useful for this example).  Say the researchers did not follow best practices for collecting the associated data,  (like asking their 5 best friends) and then concluded that the social programs were not beneficial to a community. That conclusion could be used to justify the axing of said programs.  However, those programs may very well have been beneficial and have a direct impact on people's lives.  Had the researchers collected the data ethically and accurately, then they would have concluded the same.
 
-
 ### Data Wrangling
+
+
+
 
 ### Data Analysis
 
@@ -27,3 +29,5 @@ If poor decisions made about data collection produces conclusions that incorrect
 ### References
 
 Simmons, Joseph, et al. “False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant.” PsycEXTRA Dataset, vol. 22, no. 11, 17 Oct. 2011, doi:10.1037/e519702015-014.
+
+Furche, Tim, et al. "Data Wrangling for Big Data: Challenges and Opportunities." EDBT. 2016. www.orsigiorgio.net/wp-content/papercite-data/pdf/fgl*16.pdf
