@@ -26,6 +26,8 @@ This last piece is key in both the aformentioned article and in ethical data sci
 
 ### Data Analysis
 
+Much like in life, one of the best (and ethical) things you can do in data science is to not assume you nor your conclusions are absolutely correct.  
+
 ### Data Visualization
 
 ### References
