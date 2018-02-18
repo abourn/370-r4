@@ -19,7 +19,9 @@ If poor decisions made about data collection produces conclusions that incorrect
 
 ### Data Wrangling
 
+According to Furche, et al., data wrangling is an expensive process.  For this reason, compromises must be made which take into priority the data's context, the purpose of the data, and the "user context."  Highlighting this idea of compromises is key for being an ethical data scientist.  If a researcher attempts to much, they may end up neglecting certain critical areas.  If a researcher makes the wrong choices in aggregating the data in a meaningful way, then this can potentially obfuscate the insights gained from the data.  
 
+This last piece is key in both the aformentioned article and in ethical data scientist.  When wrangling data, the researcher must take into consideration the users of that wrangled data and make informed compromises from it.  From a utilitarian perspective posited by the article, this means that end users will have an easier time to use the data and it will be more economical for the researcher.  From an ethical perspective, making concious decisions about how to best present data will result in a dataset which is more likely to (1) provide useful insights and (2) be used in the conclusions made about poeple's lives (and the subsequent impact on them) as discussed in the previous section.  
 
 
 ### Data Analysis
