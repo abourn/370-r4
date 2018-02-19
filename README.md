@@ -26,7 +26,7 @@ This last piece is key in both the aformentioned article and in being an ethical
 
 ### Data Analysis
 
-Much like in life, one of the best (and ethical) things you can do in data science is to not assume you nor your conclusions are absolutely correct.  More generally, it is critical for data scientists to have an understanding of their place in the world and understand that--they too, are subject to human flaws.  Boyd and Crawford summarize this topic extremely well: 
+Much like in life, one of the best (and ethical) things you can do in data science is to not assume you are absolutely correct.  More generally, it is critical for data scientists to have an understanding of their place in the world and understand that--they too, are subject to human flaws.  Boyd and Crawford summarize this topic extremely well: 
 "Interpretation is at the center of data analysis. Regardless of the size of a data set, it is subject to limitation and bias. Without those biases and limitations being understood and outlined, misinterpretation is the result. Big Data is at its most effective when researchers take account of the complex methodological processes that underlie the analysis of social data."
 
 Without taking these factors into account prior to analyzing datasets (and also, without fully exposing them and discussing alongside the analysis), data scientists run the risk of producing conclusions which are taken as fact, when in fact they are merely a reflection of a researchers biases.  This is a disservice to the scientific method, which is intended to move the meter closer to a better, more informed understanding of the world. 
@@ -41,3 +41,7 @@ A final and key piece that an ethical data scientist incorporates into the analy
 Simmons, Joseph, et al. “False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant.” PsycEXTRA Dataset, vol. 22, no. 11, 17 Oct. 2011, doi:10.1037/e519702015-014.
 
 Furche, Tim, et al. "Data Wrangling for Big Data: Challenges and Opportunities." EDBT. 2016. www.orsigiorgio.net/wp-content/papercite-data/pdf/fgl*16.pdf
+
+Crawford, Kate. "Six provocations for big data." (2011). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431
+
+
