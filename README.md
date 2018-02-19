@@ -41,7 +41,7 @@ An ethical data scientist will strive to distance themselves from attatchments t
 
 ### Data Visualization
 
-
+Much like in other aspects, being an ethical data scientist in the realm of data visualization means that clarity is of the upmost important.  Visualizations should be considered a vehicle by which to communicate the findings of a particular study, and (like in data analysis) should not be used to further an ideological objective predetermined by the researcher.
 
 
 
