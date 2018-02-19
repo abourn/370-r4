@@ -17,11 +17,15 @@ Which control variables should be considered? Should specific measures be combin
 
 If poor decisions made about data collection produces conclusions that incorrectly model reality, then the associated benefits of scientific progress are lost, or can actually hurt the lives of associated stakeholders.  Take, for instance, a demographic analysis used to inform the distribution of funds for certain social programs (gross oversimplification of the issue, but useful for this example).  Say the researchers did not follow best practices for collecting the associated data,  (like asking their 5 best friends) and then concluded that the social programs were not beneficial to a community. That conclusion could be used to justify the axing of said programs.  However, those programs may very well have been beneficial and have a direct impact on people's lives.  Had the researchers collected the data ethically and accurately, then they would have concluded the same.
 
+An entical data scientist will strive for accurate collection, broad casting of a "collection" net, and for reasoning about what is the most relevant for a particular study.  
+
 ### Data Wrangling
 
 According to Furche, et al., data wrangling is an expensive process.  For this reason, compromises must be made which take into priority the data's context, the purpose of the data, and the "user context."  Highlighting this idea of compromises is key for being an ethical data scientist.  If a researcher attempts too much, they may end up neglecting certain critical areas.  If a researcher makes the wrong choices in aggregating the data in a meaningful way, then this can potentially obfuscate the insights gained from the data.  
 
 This last piece is key in both the aformentioned article and in being an ethical data scientist.  When wrangling data, the researcher must take into consideration the users of that wrangled data and make informed compromises from it.  From a utilitarian perspective posited by the article, this means that end users will have an easier time to use the data and it will be more economical for the researcher.  From an ethical perspective, making concious decisions about how to best present data will result in a dataset which is more likely to (1) provide useful insights and (2) be used in the conclusions made about poeple's lives (and the subsequent impact on them) as discussed in the previous section.  
+
+An ethical data scientist will understand that compromises are necessary in data wrangling, but will ensure those compromises are ultimately in the best interest in the "users" of the dataset.
 
 
 ### Data Analysis
@@ -33,8 +37,13 @@ Without taking these factors into account prior to analyzing datasets (and also,
 
 A final and key piece that an ethical data scientist incorporates into the analysis process is to follow the principle of "picking the right tools for the job."  Many different types of analyses (something like a t-test compared to a logistic regression) often will produce different results re: the null hypothesis.  If the data scientist picks an inadequate statistical method, it follows that they are not conducting data science ethically.  The role of a researcher is to present the best possible understanding of a dataset--making choices which contradict this responsibility results in an ethically questionable data scientist.
 
+An ethical data scientist will strive to distance themselves from attatchments to hypotheses, analyses, and techniques and will instead prioritize answering a question in the most informed way.  
 
 ### Data Visualization
+
+
+
+
 
 ### References
 
