@@ -41,7 +41,7 @@ An ethical data scientist will strive to distance themselves from attatchments t
 
 ### Data Visualization
 
-Much like in other aspects, being an ethical data scientist in the realm of data visualization means that clarity is of the upmost important.  Visualizations should be considered a vehicle by which to communicate the findings of a particular study, and (like in data analysis) should not be used to further an ideological objective predetermined by the researcher.
+Much like in other aspects, being an ethical data scientist in the realm of data visualization means that clarity is of the upmost important.  Visualizations should be considered a vehicle by which to communicate the findings of a particular study, and (like in data analysis) should not be used to further an ideological objective predetermined by the researcher.  Related to this theme of clarity is the idea that visualizations should not be used to deceive through the manipulation of how to present a particular finding. According to Kirk, "Visualization ethics relates to the potential deception that can be created intentionally or otherwise, from an ineffective and inappropriate representation of data."
 
 
 
@@ -52,5 +52,7 @@ Simmons, Joseph, et al. “False-Positive Psychology: Undisclosed Flexibility in
 Furche, Tim, et al. "Data Wrangling for Big Data: Challenges and Opportunities." EDBT. 2016. www.orsigiorgio.net/wp-content/papercite-data/pdf/fgl*16.pdf
 
 Crawford, Kate. "Six provocations for big data." (2011). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431
+
+Kirk, Andy. Data Visualization: a successful design process. Packt Publishing Ltd, 2012. 
 
 
