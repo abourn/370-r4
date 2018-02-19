@@ -31,7 +31,7 @@ Much like in life, one of the best (and ethical) things you can do in data scien
 
 Without taking these factors into account prior to analyzing datasets (and also, without fully exposing them and discussing alongside the analysis), data scientists run the risk of producing conclusions which are taken as fact, when in fact they are merely a reflection of a researchers biases.  This is a disservice to the scientific method, which is intended to move the meter closer to a better, more informed understanding of the world. 
 
-A final and key piece that an ethical data scientist incorporates into the analysis process is to follow the principle of "picking the right tools for the job."  Many different types of analyses (something like a t-test compared to a logistic regression) often will produce different results re: the null hypothesis.  If the data scientist picks an inadequate statistical method, it follows that they are not conducting data science ethically, as the conclusions presented may not be accurate.  
+A final and key piece that an ethical data scientist incorporates into the analysis process is to follow the principle of "picking the right tools for the job."  Many different types of analyses (something like a t-test compared to a logistic regression) often will produce different results re: the null hypothesis.  If the data scientist picks an inadequate statistical method, it follows that they are not conducting data science ethically.  The role of a researcher is to present the best possible understanding of a dataset--making choices which contradict this responsibility results in an ethically questionable data scientist.
 
 
 ### Data Visualization
