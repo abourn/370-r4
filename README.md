@@ -43,7 +43,9 @@ An ethical data scientist will strive to distance themselves from attatchments t
 
 Much like in other aspects, being an ethical data scientist in the realm of data visualization means that clarity is of the upmost important.  Visualizations should be considered a vehicle by which to communicate the findings of a particular study, and (like in data analysis) should not be used to further an ideological objective predetermined by the researcher.  Related to this theme of clarity is the idea that visualizations should not be used to deceive through the manipulation of how to present a particular finding. According to Kirk, "Visualization ethics relates to the potential deception that can be created intentionally or otherwise, from an ineffective and inappropriate representation of data."
 
+Kirk goes on to highlight the key component for an ethical data visualization as being one which actually incorporates the data in a meaningful way.  They provide the example of a status bar meant to show that Wikipedia has reached 10% of its donation goal, but in fact the visualization of this number takes up around 24% of the total status bar. 
 
+An ethical data scientist must value the actual conclusions and data of the study when creating visualizations instead of the decoration of those visualizations.  An ethical visualization actually embodies the study's findings and provides a means of understanding those findings.
 
 ### References
 
